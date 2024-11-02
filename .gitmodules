@@ -1,0 +1,3 @@
+[submodule "repo-grilo"]
+	path = repo-grilo
+	url = git@github.com:griloHBG/eesc-aero-embedded-systems.git
